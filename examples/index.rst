@@ -1,7 +1,7 @@
 Examples
 ========
 
-Find examples of how to build programs using Bitcoin.
+Find examples of how to build programs using Bitcoin..
 
 .. toctree::
   :maxdepth: 1
